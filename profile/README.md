@@ -11,9 +11,9 @@ Welcome to the DataFactory GitHub organization!
 - **Business Process Automation**: We help companies automate their workflows, reducing manual effort and increasing productivity.
 - **IT Product Development**: Our team creates bespoke software solutions for legal and financial companies, addressing their unique needs.
 - **Integration Solutions**: We provide ready-made solutions for seamless integration with external resources, including:
-  - **Electronic Court**
-  - **UkrPost**
-  - **ASVP**
+  - **E-Court**
+  - **Ukrposhta**
+  - **Automated system of executive proceedings (АСВП)**
   - **NBU**
   - and more
 
